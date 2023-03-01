@@ -1,11 +1,1 @@
-{
-  "events": [
-    {
-      "id": "e1",
-      "title": "A dummy event",
-      "date": "2023-02-22",
-      "image": "https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg",
-      "description": "Join this amazing event and connect with fellow developers."
-    }
-  ]
-}
+{"events":[{"title":"sasdsad","image":"https://sourcesofinsight.com/wp-content/uploads/2016/01/image-11.png","date":"2023-03-11","description":"salam men test edirem sadece panik olma","id":"426d95a2-ac2d-4206-b9a6-d1a6b05da224"},{"title":"simple other event title","image":"https://sourcesofinsight.com/wp-content/uploads/2016/01/image-11.png","date":"2023-03-16","description":"test","id":"ba090ccc-fa70-49ba-871f-6dc72881ce69"},{"title":"new Event title","image":"https://sourcesofinsight.com/wp-content/uploads/2016/01/image-11.png","date":"2023-03-04","description":"solve pls","id":"7da748e6-7731-4c54-a4a0-981652bdb6aa"},{"id":"e1","title":"A dummy event","date":"2023-02-22","image":"https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg","description":"Join this amazing event and connect with fellow developers."}]}
